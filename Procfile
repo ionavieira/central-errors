@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/jetty-runner.jar --port $PORT target/*.war
+web: java -jar -Dserver.port=$PORT target/central-erros-grupo2.war

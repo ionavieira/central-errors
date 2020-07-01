@@ -11,7 +11,7 @@
 	<groupId>br.com.codenation</groupId>
 	<artifactId>central-erros</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>central-erros</name>
 	<description>Central de Erros - Codenation 2020</description>
 
